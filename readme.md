@@ -1,21 +1,15 @@
-# Integrative Programming
+# Tugas Individu - Rangga Aldo - 5027211059
 
-## Prerequisites
-We will need a basic knowledge of:
+https://github.com/ranggaaldosas/gRPC-telebot
 
-* JavaScript
-* Node JS
-* REST API
-* Client to server communication
+## TodoBot: Efficient Todo List Management using gRPC and Telegram Bot
 
-## Preparation
-Make sure this following tools installed in our machine:
+## Screenshots
 
-* Node JS
-* NPM/Yarn (package manager)
+### Telegram Commands
 
-![check](img/check-installation.png)
+![App Screenshot](https://i.ibb.co/LpTTFx8/Screenshot-34.png)
 
-## What will we learn?
-* [gRPC API & Protobuf](./grpc-nodejs)
-* Web Socket
+### Firebase
+
+![App Screenshot](https://i.ibb.co/0nxqb1G/Screenshot-35.png)
