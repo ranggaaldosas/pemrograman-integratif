@@ -1,3 +1,3 @@
 ## Documentation
 
-![ScreenShot](https://i.ibb.co/jzsSXFW/Screenshot-43.png)>
+![ScreenShot](https://i.ibb.co/HnmgQzf/sse-integrativeprogramming.png)
